@@ -1,4 +1,4 @@
-//2ndB
+//2ndB+3rdB
 public class Main {
     public static void main(String[] args) {
         Display d1 = new Display(new StringDisplayImpl("Hello, Korea."));
