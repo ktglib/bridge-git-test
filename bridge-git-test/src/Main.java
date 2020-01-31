@@ -7,6 +7,6 @@ public class Main {
         d1.display();
         d2.display();
         d3.display();
-        3rd//d3.multiDisplay(5);
+        //3rd//d3.multiDisplay(5);
     }
 }
