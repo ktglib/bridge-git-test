@@ -1,4 +1,4 @@
-//master
+//master+2ndB+3rdB
 public class Main {
     public static void main(String[] args) {
         Display d1 = new Display(new StringDisplayImpl("Hello, Korea."));
@@ -7,6 +7,6 @@ public class Main {
         d1.display();
         d2.display();
         d3.display();
-        //d3.multiDisplay(5);
+        3rd//d3.multiDisplay(5);
     }
 }
