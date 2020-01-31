@@ -1,4 +1,4 @@
-//master로 충돌 해결
+//2ndB
 public class Main {
     public static void main(String[] args) {
         Display d1 = new Display(new StringDisplayImpl("Hello, Korea."));
